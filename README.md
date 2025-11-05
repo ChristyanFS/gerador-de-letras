@@ -14,7 +14,7 @@ Controle de fluxo com while e for;
 Validação de entrada de dados;
 Impressão formatada no console.
 
-📘 Próximos Passos
+## 📘 Próximos Passos
 
 Ideias de evolução do projeto:
 Permitir escolher letras maiúsculas/minúsculas
