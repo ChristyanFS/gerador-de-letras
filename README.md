@@ -1,6 +1,6 @@
 ## 🎯 Objetivo do Projeto
 
-Este projeto foi criado com o objetivo de **praticar conceitos fundamentais da linguagem Java**, incluindo:
+Este projeto foi criado com o objetivo de **praticar conceitos fundamentais da linguagem Java**, solicitandfo um número de 1 a 26 e com base no número retornar as letras do alfabeto, incluindo:
 - Manipulação de **arrays**
 - Uso de **estruturas de repetição** (`for`, `while`)
 - Validação de entrada do usuário
